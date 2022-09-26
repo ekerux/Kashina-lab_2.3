@@ -1,0 +1,11 @@
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\bin\Debug\lab2.3.exe.config
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\bin\Debug\lab2.3.exe
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\bin\Debug\lab2.3.pdb
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\obj\Debug\lab2.3.csproj.AssemblyReference.cache
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\obj\Debug\lab2.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\obj\Debug\lab2._3.Form1.resources
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\obj\Debug\lab2._3.Properties.Resources.resources
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\obj\Debug\lab2.3.csproj.GenerateResource.cache
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\obj\Debug\lab2.3.csproj.CoreCompileInputs.cache
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\obj\Debug\lab2.3.exe
+C:\Users\tailt\Desktop\Kashina-Lab-2.3-master\obj\Debug\lab2.3.pdb
